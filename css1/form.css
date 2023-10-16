@@ -1,0 +1,17 @@
+/* external css */
+h2{
+background-color: rgb(196, 214, 245);
+color: blueviolet;
+text-align: center;
+}
+body{
+    background-color: aliceblue;
+}
+label{
+    background-color: #cacfd8;
+    color: rgb(165, 42, 120);
+    text-align:start
+}
+option{
+    color: blueviolet;
+}
