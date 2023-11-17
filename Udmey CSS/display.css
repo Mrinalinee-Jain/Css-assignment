@@ -1,0 +1,23 @@
+/*body{
+    background-color: rgb(209, 241, 231);
+}*/
+
+h1{
+    text-transform: capitalize;
+    text-align: center;
+    background-color: rgb(200, 220, 237);
+    color: rgb(4, 4, 88);
+    font: weight 800px;
+}
+
+.image-item{
+    width: 200px;
+    height: auto;
+
+}
+.image-wrapper{
+    display: inline-block;
+}
+
+
+

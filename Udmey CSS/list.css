@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: rgb(81, 10, 81);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Unordered-list{
+    list-style-type: disc;
+    color: rgb(88, 21, 63);
+
+}
+#ordered-list{
+    list-style-type: lower-alpha;
+    color: rgb(83, 66, 99);
+}
